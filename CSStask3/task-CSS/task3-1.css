@@ -1,0 +1,36 @@
+    html{
+       font-size: 62.5%;
+    }
+    body{
+        background-color: #00CED1;
+    }
+    .css0{
+        color: white;
+        margin: 0 auto; 
+        font-size: 15px;
+        width: 70%;
+    }
+    .css1{
+        clear: both;
+        text-align: center;
+        margin-top: 80px;
+        margin-bottom: 80px;
+    }
+    .css2{
+        color: white;
+        display: inline-block;
+        float: left;
+        margin-top: 105px;
+        margin-left: 5rem;
+        text-align: center;
+        font-size: 15px;
+    }
+    .css3{
+        color: white;
+        display: inline-block;
+        float: right;
+        margin-top: 105px;
+        margin-right: 5rem;
+        text-align: center;
+        font-size: 15px;
+    }
